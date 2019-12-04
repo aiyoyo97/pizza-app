@@ -1,0 +1,31 @@
+[{
+	"nama": "Beh",
+	"umur": 32,
+	"nrp": "193043302",
+	"lulus": true,
+	"hobby": [
+		"coding",
+		"gaming"
+	],
+
+	"pembimbing": {
+		"pembimbing1": "So",
+		"pembimbing2": "Tang"
+	}
+},
+{
+	"nama": "So",
+	"umur": 32,
+	"nrp": "193043302",
+	"lulus": true,
+	"hobby": [
+		"coding",
+		"gaming"
+	],
+
+	"pembimbing": {
+		"pembimbing1": "So",
+		"pembimbing2": "Tang"
+	}
+}
+]
